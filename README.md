@@ -8,3 +8,4 @@ Neste projeto, criado pelo Kaggle, iremos trabalhará com centenas de recursos a
 
 Iremos Utilizar o Python para Criar modelo de Machine Learning e utilizar técnicas avançadas para prever e o cliente está ou não satisfeito.
 
+![santander](https://user-images.githubusercontent.com/57550997/103446583-fe7ad900-4c5f-11eb-826c-44e8ba21ed40.png)
